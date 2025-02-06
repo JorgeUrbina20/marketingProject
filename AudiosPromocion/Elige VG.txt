@@ -1,0 +1,23 @@
+<<<<<<< HEAD
+**Por qué elegir Variedades Gadiel:**
+- **Variedad**: Diseños únicos para cada gusto y necesidad.
+- **Accesibilidad**: Precios que se ajustan a tu bolsillo.
+-**Atención de calidad garantizada**.
+
+**No esperes más, y únete a la moda con nuestras opciones!** Ven a 
+**Variedades Gadiel** y elige el accesorio perfecto para destacar y
+ ser tú mismo en cada paso del camino.
+
+**¡Tu estilo está en nuestras manos!**
+=======
+**Por qué elegir Variedades Gadiel:**
+- **Variedad**: Diseños únicos para cada gusto y necesidad.
+- **Accesibilidad**: Precios que se ajustan a tu bolsillo.
+-**Atención de calidad garantizada**.
+
+**No esperes más, y únete a la moda con nuestras opciones!** Ven a 
+**Variedades Gadiel** y elige el accesorio perfecto para destacar y
+ ser tú mismo en cada paso del camino.
+
+**¡Tu estilo está en nuestras manos!**
+>>>>>>> 25b76181ae26f4c77dc31e9b6c9daceed33c1260
